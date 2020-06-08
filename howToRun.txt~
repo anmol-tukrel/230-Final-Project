@@ -1,0 +1,2 @@
+To run a model type python3 <model-name>.py and double check that the dataset is in the correct location.
+For example: python3 LSTM-custom.py

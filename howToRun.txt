@@ -1,0 +1,3 @@
+To run a model type python3 <model-name>.py and double check that the dataset is in the correct location.
+For example: python3 LSTM-custom.py
+The F1 scores, accuracy will be printed out and the confusion matrix will be saved to an image file.
